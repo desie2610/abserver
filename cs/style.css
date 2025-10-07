@@ -1,0 +1,28 @@
+/* * {
+    padding: 0;
+    margin: 0;
+}
+
+.section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 200px 0px;
+    background-color: aqua;
+} */
+
+.header{
+    height: calc(100vh + 100px);
+    background-color: tomato;
+}
+
+section{
+    height: 100vh;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    outline: 1px solid red;
+    
+}
